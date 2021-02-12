@@ -15,5 +15,5 @@ Series: Is TDD dead? Martin Fowler, Kent Beck, David Heinemeier Hansson (DHH)
 
 # Other sites
 
-cleancoders.com - tons of videos from Uncle Bob and friends
+[Clean Coders](https://cleancoders.com/) - tons of videos from Uncle Bob and friends
 - not free, but well worth the money
